@@ -24,9 +24,3 @@ O projeto é composto pelas seguintes páginas:
 - Navegação intuitiva entre as páginas.
 - Estilo responsivo para melhor visualização em dispositivos móveis.
 - Galeria de imagens com efeito de zoom ao passar o mouse.
-
-## Como Executar o Projeto
-
-1. Clone este repositório para sua máquina local.
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
